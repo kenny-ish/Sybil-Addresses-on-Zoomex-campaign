@@ -1,0 +1,46 @@
+Summary:
+I found one owner continuously sent around 2000$USDT to Zoomex deposit addresses via Slash from multiple accounts to get OAT fraudulently. This is against the rules, so please take appropriate action.
+
+1. The proof that one owner handles the addresses below.
+Details: The owner deposited almost same amount of BNB to one unique Binance deposit address during 1.5 hours in a row.
+
+Date		Time		Chain	Tx hash									Link												Tx type	Related addr						Asset	type	Amount 
+
+2022/11/5	12:28:30	bsc	0xa0feecd98af8b3a4b440032ab95b5031c1d19072d36f9303c6197e5cc67bfd33	https://bscscan.com/tx/0xa0feecd98af8b3a4b440032ab95b5031c1d19072d36f9303c6197e5cc67bfd33	receive	0x0c4b6ea50f4b99b95f56d1ed0d7b8d96da825721		BNB	token	2	
+2022/11/5	12:27:36	bsc	0x11af79c659d92dc0b854af32a54b73e09c642e84a2fecf871b6a73e30a1e3e5f	https://bscscan.com/tx/0x11af79c659d92dc0b854af32a54b73e09c642e84a2fecf871b6a73e30a1e3e5f	receive	0x7dd68bdb4d12d73982b4da1387f1611783d39fca		BNB	token	2	
+2022/11/5	12:23:00	bsc	0xb65be1e3f06856b9340ac7c0f121727d06a0f20b9cf96a675a918d80b00efa9f	https://bscscan.com/tx/0xb65be1e3f06856b9340ac7c0f121727d06a0f20b9cf96a675a918d80b00efa9f	receive	0xd9b16f274f172fc361f69942570053131c38aaa9		BNB	token	2	
+2022/11/5	12:20:39	bsc	0x5dc4c6d08d1bc4135803bbb08cfa20330bf272b469efd2c5bac1735ee47821fb	https://bscscan.com/tx/0x5dc4c6d08d1bc4135803bbb08cfa20330bf272b469efd2c5bac1735ee47821fb	receive	0xdf262ee16d457a5070d5d156c1db3c4682163370		BNB	token	2	
+2022/11/5	12:20:21	bsc	0xea94d097f4e67e4cae5b54cfce3965be73f75fe0d4d13eb0a12534eabd82f58d	https://bscscan.com/tx/0xea94d097f4e67e4cae5b54cfce3965be73f75fe0d4d13eb0a12534eabd82f58d	receive	0x74ecf2ccaea8ff319446acd15d33f430fb0a7d25		BNB	token	2	
+2022/11/5	12:16:42	bsc	0xf8074a943a53ee23eafd4e6cfbc2a9cc88122f97f023bc0f30894cb86ff7500e	https://bscscan.com/tx/0xf8074a943a53ee23eafd4e6cfbc2a9cc88122f97f023bc0f30894cb86ff7500e	receive	0x99382ccf6873190b161f1465a7a4f0063fccac7f		BNB	token	2	
+2022/11/5	12:15:33	bsc	0xaf6e840237e6304d6f40e8a48db1b111c7808f18ff0af7f578ee47c0288316d4	https://bscscan.com/tx/0xaf6e840237e6304d6f40e8a48db1b111c7808f18ff0af7f578ee47c0288316d4	receive	0xc7ba6f8daafd3eb4c88ac41b16fd6bf039670cc8		BNB	token	2.1	
+2022/11/5	12:14:18	bsc	0xf20c811c526e39481a608395d65bbe32ed4de98a1a58594859f67ba81f2cda1f	https://bscscan.com/tx/0xf20c811c526e39481a608395d65bbe32ed4de98a1a58594859f67ba81f2cda1f	receive	0xf47ae8f4f721e917888a9956b75f0f9a729e995f		BNB	token	2	
+2022/11/5	12:12:42	bsc	0x06264320f62eaca6865f052fb62a75fc3f61d5e08046aed8bd5aff04bf5907c1	https://bscscan.com/tx/0x06264320f62eaca6865f052fb62a75fc3f61d5e08046aed8bd5aff04bf5907c1	receive	0x056d4a7954a53c0dab289a2bdb7d669da287301f		BNB	token	2	
+2022/11/5	12:10:42	bsc	0x631db77d86881b44a36368979a8836b30af8329392edfce270c6b71cc1428926	https://bscscan.com/tx/0x631db77d86881b44a36368979a8836b30af8329392edfce270c6b71cc1428926	receive	0xed93f28643dc1dc8498d9d4bb7aa9b500cffbe16		BNB	token	2	
+2022/11/5	12:09:09	bsc	0xf7441d94aa8a12285846e3447eaf7ffcd3ddd92829788e800c4150a694e6740c	https://bscscan.com/tx/0xf7441d94aa8a12285846e3447eaf7ffcd3ddd92829788e800c4150a694e6740c	receive	0x30c592df0f25bdb524ff2ef0613d11d975c1cb59		BNB	token	2	
+2022/11/5	12:06:24	bsc	0x8dac88bbd1cc433d49c0d173d0ac8d66cb183a936f6080ad72c16e9ddfcc4055	https://bscscan.com/tx/0x8dac88bbd1cc433d49c0d173d0ac8d66cb183a936f6080ad72c16e9ddfcc4055	receive	0x9ef60f17287549da117d2aa1421256368b29c4f0		BNB	token	2	
+2022/11/5	12:02:45	bsc	0xc708d891ce1de0f7f3984d68a01a450dee799b39c79d0e7e1a673f222341f45f	https://bscscan.com/tx/0xc708d891ce1de0f7f3984d68a01a450dee799b39c79d0e7e1a673f222341f45f	receive	0x01f30095efc273e948d6346b0622d87557d9d641		BNB	token	2	
+2022/11/5	12:01:24	bsc	0x02b43658e5bd34d6d3d47e86befe7cb2a40f964d3800e82b498ace00a7b91a5c	https://bscscan.com/tx/0x02b43658e5bd34d6d3d47e86befe7cb2a40f964d3800e82b498ace00a7b91a5c	receive	0x558bc8787b16c7902dea408bf122f23f2e2000d2		BNB	token	2	
+2022/11/5	11:59:09	bsc	0x040565409338fd305b77daa176101b82820afb3d7681adcc13a776c2437f82db	https://bscscan.com/tx/0x040565409338fd305b77daa176101b82820afb3d7681adcc13a776c2437f82db	receive	0xbf9fb26d3d937d4164fa193daf968c51ceabbae5		BNB	token	2	
+
+2. The extracted sybil addresses from 1. and their transaction hashes(link) which sent USDT to Zoomex via Slash so far.
+
+Address						Link
+
+0x74eCF2CCAEA8FF319446ACd15D33f430FB0A7d25	https://bscscan.com/tx/0x67b369f3a02b61f9e321a87dbdc5d6f395bbab84939d5c92844df42a43724495
+0x0c4B6Ea50f4B99B95F56d1ED0D7B8d96DA825721	https://bscscan.com/tx/0x4af8789a4b2075bdc6814c9501a8205fe4b877c89defc28dbf2cbcafc4c675bb
+0x7DD68BdB4d12D73982B4Da1387f1611783d39FcA	https://bscscan.com/tx/0xf6571ffef7e25712e0efe91a1074167d81b9bc4623386fe52ffbe2e9907315cb
+0x056D4A7954a53c0DAb289a2Bdb7D669da287301f	https://bscscan.com/tx/0x2e919801e1106fd96fdf9870fc26bb4853d6e4b70e4631705e2f3410b18e64e6
+0xF47ae8F4F721e917888a9956b75F0F9A729E995F	https://bscscan.com/tx/0x786570bbedcbb459aef7517755ede69a7df27043199e55f01b8282fff86b6b39
+0x30C592dF0F25BDb524Ff2eF0613D11D975c1cB59	https://bscscan.com/tx/0x2c76000dfa9a1b0dd382c75d031a0e94affdd29c5206fb59eee50f2b5657f207
+0x99382ccf6873190B161F1465a7A4f0063FCcAC7f	https://bscscan.com/tx/0xf18c15a9cb30a9fc0a84f0c671933b4648f84bae16da8d12fbab21ce71ff164a
+0xEd93f28643dC1DC8498D9D4BB7aA9B500cffbE16	https://bscscan.com/tx/0x2af0ad9fb424c9bc2f2f0f049db5a41127f174027734459c1b637a817556ce10
+0xc7Ba6F8DaafD3eB4c88AC41B16Fd6bf039670Cc8	https://bscscan.com/tx/0x6737612736d34f7c46e1283f33ef8cac6029d4d3276a65c1fd9341e57bddae4d
+0x9eF60F17287549Da117D2AA1421256368B29C4f0	https://bscscan.com/tx/0x4e4b93409b43eefcbf886f97f163be208b8bc980567e7da69e96596f6fcbd78a
+0x01f30095eFc273E948D6346B0622D87557d9D641	https://bscscan.com/tx/0xc149f2a87a0d7247d71d7b139e18ba82f47d0a882f05dec239c7dae310049a9b
+0x558BC8787b16c7902dea408bF122F23f2e2000d2	https://bscscan.com/tx/0xae4db502780175dbef6faf612338737e489b12af9bd379dabfb53a5c0bf71234
+0xD9B16F274f172Fc361F69942570053131C38Aaa9	https://bscscan.com/tx/0xfe98f0bb18fe724d967d56eeaabda3efb06a87e66e0cd5cc1ec85dcff76ae05d
+0xDF262Ee16d457a5070D5D156c1DB3c4682163370	https://bscscan.com/tx/0x4784e2a865dc722375f89965dafaf2522c7df2b47e09a66d0cdd651531cf1e18
+0xbf9FB26d3d937d4164Fa193dAF968C51ceabbAE5	https://bscscan.com/tx/0x9c132e88744730ab11dcde39ca13335a453a5bcfb7fda44a044ad24a62b1755e
+
+
+	
