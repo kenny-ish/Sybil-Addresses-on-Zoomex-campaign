@@ -47,5 +47,5 @@ Index	Address
 
 (18)	0xF41bFb8829E6694AfAb7E375bcBA176C0b094BF8
 
-# Relation map: The indexed wallets above use the same unique Binance address and deposit to slash against the rules:
+# Relation map: The indexed wallets above use the same unique Binance address and deposit to slash on BSC against the rules:
 ![relation map](https://github.com/kenny-ish/Sybil-Addresses-on-Zoomex-campaign/assets/114967656/948806a2-035f-4f60-8abe-c804025d2dac)
