@@ -3,6 +3,7 @@
 # Summary:
 I found one owner continuously sent around 2000$USDT to Zoomex deposit addresses via Slash from multiple accounts to get OAT fraudulently.
 This is against the rules, so please take appropriate action.
+The relation between wallets are proved since they use the same Binance wallet address which is allocated for one user.
 
 # The sybil addresses:
 Index	Address
@@ -43,5 +44,5 @@ Index	Address
 
 (18)	0xF41bFb8829E6694AfAb7E375bcBA176C0b094BF8
 
-# Relation map: The indexed wallets above use a unique Binance address and deposit to slash against the rules:
+# Relation map: The indexed wallets above use the same unique Binance address and deposit to slash against the rules:
 ![relation map](https://github.com/kenny-ish/Sybil-Addresses-on-Zoomex-campaign/assets/114967656/948806a2-035f-4f60-8abe-c804025d2dac)
