@@ -4,7 +4,9 @@
 I found one owner continuously sent around 2000$USDT to Zoomex deposit addresses via Slash from multiple accounts to get OAT fraudulently.
 This is against the rules, so please take appropriate action.
 
-The relation between wallets are proved since they use the same Binance wallet address which is allocated for one user.
+The relation between wallets are also proved since they use the same Binance wallet address which is allocated for one user.
+
+The appendix "Sybil-address-list 20230521.txt" shows the transaction hashes which prove everything I explained above.
 
 # The sybil addresses:
 Index	Address
